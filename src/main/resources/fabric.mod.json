@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"splash.lol.AttackIndicator"
+          "splash.lol.Main"
 		]
 	},
 	"mixins": [
