@@ -1,4 +1,4 @@
-package splash.lol.Event;
+package splash.lol.impl.events;
 
 import net.minecraft.client.gui.DrawContext;
 
